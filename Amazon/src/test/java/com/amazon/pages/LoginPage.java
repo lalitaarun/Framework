@@ -8,7 +8,11 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage {
 	WebDriver driver;
+<<<<<<< HEAD
 //new commit from lalita abcd
+=======
+
+>>>>>>> branch 'master' of https://github.com/lalitaarun/Framework.git
 	public LoginPage(WebDriver ldriver) {
 		this.driver = ldriver;
 	}
